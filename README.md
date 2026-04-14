@@ -5,3 +5,5 @@
 # - Learned Git basics
 # - Created repo
 # - First push to GitHub
+## Purpose
+# This repository is for learning # Git and version control basics.
