@@ -12,3 +12,7 @@ hello world
  ## Day 2
 - Learned branching
 - Made changes in a feature branch
+
+## Purpose (Day 2)
+- Learn how to use branches to safely make changes without affecting the main version of the project. 
+- Practice creating, switching, and merging branches.
