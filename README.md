@@ -1,6 +1,15 @@
 # Git Practice
 hello world 
 
+## Day 3
+Learned repo state debugging, rebasing, and syncing with GitHub
+Checked branches and commit history
+Fixed diverged local and remote main branches
+
+## Purpose (Day 3)
+Learn how to inspect Git history, understand branch state, and fix sync issues between local and remote repositories.
+Practice using git branch, git log, git pull --rebase, git status, and git push.
+
 
  ## Day 2
 - Learned branching
