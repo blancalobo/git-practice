@@ -25,6 +25,6 @@ Practice using git branch, git log, git pull --rebase, git status, and git push.
  - Created repo
  - First push to GitHub
 
-# Purpose (Day 1)
+Purpose (Day 1)
  This repository is for learning # Git and version control basics.
 
