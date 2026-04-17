@@ -8,7 +8,7 @@ is used in real development environments. The focus is on managing mistakes,
 handling interruptions, resolving conflicts, and maintaining a clean commit
 history.
 
-## Purpose (Day 4)
+### Purpose (Day 4)
 The goal of Day 4 was to develop the ability to work with Git in non ideal
 situations. This includes undoing changes safely, switching tasks without
 losing progress, resolving merge conflicts, and organizing commit history.
